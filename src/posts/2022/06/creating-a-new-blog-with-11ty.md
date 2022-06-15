@@ -12,3 +12,5 @@ tags:
 A new attempt at keeping a tech blog up and running. 11ty hosted in GitHub Pages seems to me like a very good option with very little maintenance. Together with easy rebuilding and deploying to GitHub Pages. Expect short posts with cool tricks, and some longer posts with more thoroughly thoughts written out. 
 
 That is it for the first post. Let's GO!
+
+Photo by https://unsplash.com/@cgower
